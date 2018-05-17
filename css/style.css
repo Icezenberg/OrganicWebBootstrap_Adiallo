@@ -1,0 +1,30 @@
+
+
+
+
+/* ----Colors ---- */
+.font-col-1 {
+    color:#f7f7f7; 
+   
+} 
+
+/* ------Header------- */
+header{
+    background: url(../img/home.jpg);
+    height: 1400px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-decoration: none;
+} 
+.col-log{
+    text-decoration: none;
+    color: #fefefe;
+} 
+.log{
+    color: #28bbea;
+} 
+
+.alignement{
+    height: 100%;
+}  
+
